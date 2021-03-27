@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">JP Prueba ListView</string>
+    <string name="nombre">Ingrese Nombre del Producto</string>
+    <string name="valor">Ingrese Valor del Producto</string>
+    <string name="boton1"><gravity><h1>Agregar Producto</h1></gravity></string>
+
+</resources>
